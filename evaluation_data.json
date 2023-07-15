@@ -1,0 +1,154 @@
+{
+  "ground_truth_teams": [
+    {
+      "description": "Description",
+      "id": "9e2ea983-3800-4221-9641-10f2998cd4d2",
+      "name": "Team 1",
+      "required_members": [
+        {
+          "count": 1,
+          "criteria": {
+            "design": 50,
+            "figma": 25,
+            "adobe_xd": 18
+          },
+          "required_skills": [
+            "Figma"
+          ],
+          "role": "Designer"
+        },
+        {
+          "count": 1,
+          "criteria": {
+            "react": 45,
+            "js": 30,
+            "html": 25
+          },
+          "required_skills": [
+            "React"
+          ],
+          "role": "Frontend Developer"
+        }
+      ],
+      "time_frame": {
+        "end": "2021-01-01",
+        "start": "2021-01-01"
+      }
+    },
+    {
+      "description": "Description",
+      "id": "63514777-fc7e-4895-a173-af47268b1df8",
+      "name": "Team 2",
+      "required_members": [
+        {
+          "count": 1,
+          "criteria": {
+            "design": 10,
+            "figma": 10,
+            "adobe_xd": 10
+          },
+          "required_skills": [
+            "Figma"
+          ],
+          "role": "Designer"
+        },
+        {
+          "count": 1,
+          "criteria": {
+            "react": 10,
+            "js": 10,
+            "html": 10
+          },
+          "required_skills": [
+            "React"
+          ],
+          "role": "Frontend Developer"
+        }
+      ],
+      "time_frame": {
+        "end": "2021-01-01",
+        "start": "2021-01-01"
+      }
+    }
+  ],
+  "ground_truth_members": [
+    {
+      "availability": {
+        "end": "2021-03-01",
+        "start": "2021-01-01"
+      },
+      "criteria": {
+        "design": 50,
+        "figma": 25,
+        "adobe_xd": 18
+      },
+      "id": "f2e09fd3-7150-4d3d-b411-fa1ff7c25248",
+      "name": "Viktor Wilson",
+      "role": "Designer",
+      "skills": [
+        "Figma",
+        "Jest"
+      ],
+      "team_id": null
+    },
+    {
+      "availability": {
+        "end": "2021-03-01",
+        "start": "2021-01-01"
+      },
+      "criteria": {
+        "react": 10,
+        "js": 10,
+        "html": 10
+      },
+      "id": "d582c828-00d0-4ee8-9e8c-37caa10bf22c2",
+      "name": "Ivan Price",
+      "role": "Frontend Developer",
+      "skills": [
+        "Cypress",
+        "Mocha",
+        "React"
+      ],
+      "team_id": null
+    },
+    {
+      "availability": {
+        "end": "2021-03-01",
+        "start": "2021-01-01"
+      },
+      "criteria": {
+        "design": 10,
+        "figma": 10,
+        "adobe_xd": 10
+      },
+      "id": "f2e09fd3-7150-4d3d-b411-fa1ff7c252481",
+      "name": "Anna Morrison",
+      "role": "Designer",
+      "skills": [
+        "Figma",
+        "Jest"
+      ],
+      "team_id": null
+    },
+    {
+      "availability": {
+        "end": "2021-03-01",
+        "start": "2021-01-01"
+      },
+      "criteria": {
+        "react": 45,
+        "js": 30,
+        "html": 25
+      },
+      "id": "d582c828-00d0-4ee8-9e8c-37caa10bf22c",
+      "name": "John Moore",
+      "role": "Frontend Developer",
+      "skills": [
+        "Cypress",
+        "Mocha",
+        "React"
+      ],
+      "team_id": null
+    }
+  ]
+}

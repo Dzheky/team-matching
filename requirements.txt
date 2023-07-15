@@ -1,0 +1,6 @@
+numpy
+scipy
+flask
+flask-cors
+requests
+prettytable
